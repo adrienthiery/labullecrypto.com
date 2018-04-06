@@ -1,0 +1,16 @@
+ilyass:
+  username: ilyass
+  name: Ilyass Lee
+  location: Montreal
+  url_full: http://iltabiai.github.io/
+  url: iltabiai.github.io
+  bio: Le fils caché de Stan Lee!
+  assets: https://pbs.twimg.com/profile_images/662669738997362688/D6MPcRON_400x400.jpg
+clement:
+  username: clement
+  name: Clément
+  location: Bordeaux
+  url_full: https://twitter.com/clemkn
+  url: twitter.com/clemkn
+  bio: Junior developer chez 10h11
+  assets: https://pbs.twimg.com/profile_images/980548726845509643/7inoxxd9_400x400.jpg
