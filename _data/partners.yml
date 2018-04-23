@@ -1,0 +1,8 @@
+- name: Cryptoast
+  url_full: https://cryptoast.fr/
+  url: cryptoast.fr
+  image: https://i2.wp.com/cryptoast.fr/wp-content/uploads/2017/08/cropped-cryptoast-1-1.png?w=500&ssl=1
+- name: Cryptoactu
+  url_full: https://twitter.com/cryptoactufr
+  url: twitter.com/cryptoactufr
+  image: https://pbs.twimg.com/profile_images/981312716311879681/Q3TKmWUr.jpg

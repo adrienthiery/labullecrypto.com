@@ -1,0 +1,41 @@
+---
+layout: page
+title: Les fiches de la Bulle
+permalink: /fiches
+cover: assets/images/fiches.jpg
+overlay: true
+credits_username: samuelzeller
+credits_name: Samuel Zeller
+---
+
+{% for fiche in paginator.fiches %}
+    <article class="fiche" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+    <div class="article-item">
+        <header class="fiche-header">
+        <h2 class="fiche-title" itemprop="name"><a href="{{ site.baseurl }}{{ fiche.url | remove: '/'}}" itemprop="url">{{ fiche.title }}</a></h2>
+        </header>
+        <section class="fiche-excerpt" itemprop="description">
+        <p class="fiche-description">{{ fiche.excerpt | strip_html | truncatewords: 50 }}</p>
+        </section>
+    </div>
+    </article>
+{% endfor %}
+
+ <nav class="pagination" role="navigation">
+    {% if paginator.next_page %}
+      <a class="newer-episodes" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Older episodes</a>
+    {% else %}
+      <a class="newer-episodes disabled">&larr; Older episodes</a>
+    {% endif %}
+    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+        <a class="older-episodes" href="{{ site.baseurl }}/">Newer episodes &rarr;</a>
+      {% else %}
+        <a class="older-episodes" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer episodes &rarr;</a>
+      {% endif %}
+    {% else %}
+      <a class="older-episodes disabled">Newer episodes &rarr;</a>
+    {% endif %}
+  </nav>
+

@@ -1,0 +1,46 @@
+---
+layout: page
+title: Equipe
+comments: false
+permalink: /equipe
+cover: assets/images/team.jpg
+overlay: true
+credits_username: rawpixel
+credits_name: rawpixel.com
+---
+
+<div id="members" class="members">
+{% for member in site.data.members %}
+    <div class="member">
+        <amp-img src="{{ member.image }}" width="75" height="75" layout="fixed" alt="Photo de {{ member.name }}" class="member-photo"></amp-img>
+        <h3 id="{{ member.username }}">{{ member.name }}</h3>
+        <p>{{ member.location }}</p>
+        <p>
+            <a href="{{ member.url_full }}" target="_blank" aria-label="Lien personnel du membre" rel="noopener noreferrer">{{ member.url }}</a>
+        </p>
+        <p>
+            <a href="mailto:{{ member.username }}@labullecrypto.com" target="_blank" aria-label="email du membre" rel="noopener noreferrer">{{ member.username }} @labullecrypto.com</a>
+        </p>
+        <!-- <h4>Episodes</h4>
+        <ul class="episodes">
+        {% for episode in site.episodes %}
+            {% if member.username == episode.member %}
+            {% if episode.title != null %}
+            <li itemscope><span class="entry-date"><time datetime="{{ episode.date | date_to_xmlschema }}" itemprop="datePublished">{{ episode.date | date: "%B %d, %Y" }}</time></span> &raquo; <a href="{{ site.baseurl }}{{ episode.url | remove: '/'}}">{{ episode.title }}</a></li>
+            {% endif %}
+            {% endif %}
+        {% endfor %}
+        </ul>
+        <h4>Fiches</h4>
+        <ul class="fiches">
+        {% for fiche in site.fiches %}
+            {% if member.username == fiche.member %}
+            {% if fiche.title != null %}
+            <li itemscope><span class="entry-date"><time datetime="{{ fiche.date | date_to_xmlschema }}" itemprop="datePublished">{{ fiche.date | date: "%B %d, %Y" }}</time></span> &raquo; <a href="{{ site.baseurl }}{{ fiche.url | remove: '/'}}">{{ fiche.title }}</a></li>
+            {% endif %}
+            {% endif %}
+        {% endfor %}
+        </ul> -->
+    </div>
+{% endfor %}
+</div>

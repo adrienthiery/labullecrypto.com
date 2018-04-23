@@ -1,13 +1,22 @@
 <!DOCTYPE html>
-<html ⚡ lang="en">
-  {% include head.html %}
-  <body>
-    {% include header.html %}
+<html ⚡ lang="fr">
+    {% include head.html %}
+    <body>
+        {% include navbar.html %}
 
-    {{ content }}
+        {{ content }}
 
-    {% comment %}
-        {% include analytics.html %}
-    {% endcomment %}
-  </body>
+        {% comment %}
+            {% include analytics.html %}
+        {% endcomment %}
+    </body>
+    <script>
+        function scrollToContent() {
+            document.querySelector('#content').scrollIntoView({
+                behavior: 'smooth'
+            });
+
+            return false;
+        }
+    </script>
 </html>

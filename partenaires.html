@@ -1,0 +1,22 @@
+---
+layout: page
+title: Partenaires
+comments: false
+permalink: /partenaires
+cover: assets/images/partenaires.jpg
+overlay: true
+credits_username: rawpixel
+credits_name: rawpixel.com
+---
+
+<div id="partners" class="partners">
+{% for partner in site.data.partners %}
+    <div class="partner">
+        <h3>{{ partner.name }}</h3>
+        <div class="image-container">
+            <img src="{{ partner.image }}" />
+        </div>
+        <a href="{{ partner.url_full }}">{{ partner.url }}</a>
+    </div>
+{% endfor %}
+</div>

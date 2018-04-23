@@ -1,26 +1,24 @@
 # Site settings
 title: La Bulle Crypto
 description: Le podcast francophone numéro 1 sur les crypto-monnaies
-cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+cover: assets/images/main.svg
+logo: assets/images/logo.svg
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://labullecrypto.com" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+paginate: 5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
-
-#Additional Pages
-about: about
-contact: contact
-privacy-policy: privacy-policy
-
+facebook: labullecrypto
+twitter: labullecrypto
+youtube: UC_nTxNcaB_HXDt9hv13ugHg
+telegram: BPCby0LDFPYTUhYNDlILVg
+soundcloud: la-bulle-crypto
+iTunes: fr/podcast/la-bulle/id1281121446
+discord: kXQM7NY
+rss: labullecrypto
 
 permalink: /:title
-
 
 # Google Analytics
 analytics_id: ""

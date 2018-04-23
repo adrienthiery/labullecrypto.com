@@ -1,0 +1,51 @@
+
+* {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+}
+head,
+title,
+link,
+meta,
+style,
+script {
+    display: none;
+}
+
+html,
+body,
+figure,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-feature-settings: "liga=1, dlig=1";
+    -ms-font-feature-settings: "liga", "dlig";
+    -webkit-font-feature-settings: "liga", "dlig";
+    -o-font-feature-settings: "liga", "dlig";
+    font-feature-settings: "liga", "dlig";
+}
+
+a, a:visited {
+    color: $primary;
+    text-decoration: none;
+}
+
+main {
+    width: 100%;
+    max-width: 960px;
+    min-height: 80vh;
+    margin: auto;
+    padding: 2 * $base-padding;
+}
+
+p, span {
+    flex-direction: row;
+}

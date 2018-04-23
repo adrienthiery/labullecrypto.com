@@ -1,0 +1,54 @@
+- name: Ilyass
+  username: ilyass
+  location: Montréal
+  url_full: http://iltabiai.github.io/
+  url: iltabiai.github.io
+  image: https://pbs.twimg.com/profile_images/662669738997362688/D6MPcRON_400x400.jpg
+- name: Clément
+  username: clement
+  location: Bordeaux
+  url_full: https://twitter.com/clemkn
+  url: twitter.com/clemkn
+  image: https://pbs.twimg.com/profile_images/980548726845509643/7inoxxd9_400x400.jpg
+- name: Adrien
+  username: adrien
+  location: Montréal
+  url_full: https://twitter.com/adrien0
+  url: twitter.com/adrien0
+  image: https://pbs.twimg.com/profile_images/449523554573250560/sZXdU_MZ.jpeg
+- name: Goroth
+  username: goroth
+  location: Paris
+  url_full: https://twitter.com/cryptoactufr
+  url: twitter.com/cryptoactufr
+  image: https://pbs.twimg.com/profile_images/981312716311879681/Q3TKmWUr.jpg
+- name: Yahya
+  username: yahya
+  location: Montréal
+  url_full: https://twitter.com/lussylver
+  url: twitter.com/lussylver
+  image:
+- name: Ash
+  username: ash
+  location: Montréal
+  url_full:
+  url:
+  image:
+- name: Francis
+  username: francis
+  location: Montréal
+  url_full:
+  url:
+  image:
+- name: Fabien
+  username: fab
+  location: Bruxelles
+  url_full:
+  url:
+  image:
+- name: Leo
+  username: leo
+  location: Montréal
+  url_full:
+  url:
+  image:

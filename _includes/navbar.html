@@ -1,0 +1,50 @@
+<!-- Start Navbar -->
+<div class="ampstart-headerbar navbar">
+    <!-- Start Mobile "Navbar" -->
+    <div class="mobile">
+        <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger  pr2  ">☰
+        </div>
+    </div>
+    <!-- End Mobile "Navbar" -->
+    <!-- Start Desktop "Navbar" -->
+    <div class="desktop">
+        <ul class="menu">
+            {% for entry in site.data.navigation %}
+                {% capture entryURL %}/{{ entry.url }}{% endcapture %}
+                {% if entryURL == page.url %}
+                    {% assign current = 'current' %}
+                {% else %}
+                    {% assign current = null %}
+                {% endif %}
+                <li class="{{ current }}">
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}" class="text-decoration-none">{{ entry.title }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <!-- End Desktop "Navbar" -->
+</div>
+
+<!-- Start Sidebar -->
+<amp-sidebar id="header-sidebar" class="ampstart-sidebar" layout="nodisplay">
+<div class="ampstart-sidebar-header">
+    <div role="button" aria-label="close sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger close">✕</div>
+</div>
+<nav class="ampstart-sidebar-nav ampstart-nav">
+    <ul class="ampstart-label">
+    {% for entry in site.data.navigation %}
+        {% capture entryURL %}/{{ entry.url }}{% endcapture %}
+        {% if entryURL == page.url %}
+            {% assign current = 'current' %}
+        {% else %}
+            {% assign current = null %}
+        {% endif %}
+        <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
+            <a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}" class="text-decoration-none">{{ entry.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+</nav>
+
+{% include social.html %}
+</amp-sidebar>

@@ -1,0 +1,25 @@
+.partners {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    .image-container {
+        flex: 1;
+        margin-top: $base-padding;
+        margin-bottom: $base-padding;
+    }
+
+    img {
+        max-width: 200px;
+        max-height: 200px;
+    }
+
+    .partner {
+        flex-basis: 250px;
+        align-items: center;
+        padding: $base-padding;
+        border: solid 1px $greyDD;
+        margin-top: $base-padding;
+        margin-bottom: $base-padding;
+    }
+}

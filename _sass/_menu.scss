@@ -1,0 +1,67 @@
+@mixin respond-to($breakpoint) {
+    @media only screen and (max-width: $breakpoint + px) {
+        @content;
+    }
+}
+
+@mixin respond-up($breakpoint) {
+    @media only screen and (min-width: $breakpoint + px) {
+        @content;
+    }
+}
+
+.desktop {
+    @include respond-to(800) {
+        display: none;
+    }
+}
+
+.menu {
+    flex-direction: row;
+    justify-content: flex-end;
+
+    a, a:visited {
+        color: $white;
+        padding: $base-padding;
+    }
+
+    li.current a {
+        font-weight: bold;
+    }
+}
+
+.mobile {
+    @include respond-up(800) {
+        display: none;
+    }
+}
+
+.navbar {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: $base-padding;
+    color: $white;
+}
+
+.ampstart-sidebar {
+    padding: $base-padding;
+    background-color: $black;
+
+    .close {
+        color: $white;
+    }
+    svg {
+        fill: $white;
+    }
+
+    li {
+        padding: $base-padding;
+
+        &.current a {
+            font-weight: bold;
+        }
+    }
+}

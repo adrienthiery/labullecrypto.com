@@ -1,0 +1,27 @@
+.members {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    .member {
+        flex-basis: 250px;
+        align-items: center;
+        padding: $base-padding;
+        border: solid 1px $greyDD;
+        margin-top: $base-padding;
+        margin-bottom: $base-padding;
+
+        h3 {
+            margin-bottom: 0;
+        }
+
+        p {
+            margin-top: 0;
+            margin-bottom: $base-padding / 2;
+        }
+    }
+
+    .member-photo {
+        border-radius: 50px;
+    }
+}
