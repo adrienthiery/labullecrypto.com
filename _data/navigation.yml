@@ -1,6 +1,9 @@
 - title: Accueil
   url:
 
+- title: Episodes
+  url: episodes
+
 - title: Fiches
   url: fiches
 

@@ -29,6 +29,38 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
+collections:
+  episodes:
+    output: true
+    permalink: /episode/:name
+  meetups:
+    output: true
+    permalink: /meetup/:name
+  fiches:
+    output: true
+    permalink: /fiche/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode
+      cover: assets/images/episode.jpg
+      credits_username: innov8
+      credits_name: Matthieu A
+      overlay: true
+  - scope:
+      path: ""
+      type: meetups
+    values:
+      layout: meetup
+  - scope:
+      path: ""
+      type: fiches
+    values:
+      layout: fiche
+
 plugins:
   - jekyll-paginate
 

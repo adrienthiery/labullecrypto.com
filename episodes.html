@@ -1,0 +1,24 @@
+---
+layout: page
+title: Les épisodes de la Bulle
+permalink: /episodes
+cover: assets/images/episode.jpg
+overlay: true
+credits_username: samuelzeller
+credits_name: Samuel Zeller
+---
+
+{% for episode in site.episodes %}
+    <article class="episode" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+    <div class="article-item">
+        <header class="episode-header">
+        <h2 class="episode-title" itemprop="name"><a href="{{ site.baseurl }}{{ episode.url | remove: '/'}}" itemprop="url">{{ episode.title }}</a></h2>
+        </header>
+        <section class="episode-excerpt" itemprop="description">
+        <p class="episode-description">{{ episode.excerpt | strip_html | truncatewords: 50 }}</p>
+        </section>
+    </div>
+    </article>
+{% endfor %}
+
+

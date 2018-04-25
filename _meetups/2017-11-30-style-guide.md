@@ -1,6 +1,4 @@
 ---
-layout: post
-cover: 'assets/images/shiva.jpg'
 title: Style Guide
 date: 2017-11-30 04:00:00
 tags: guide
