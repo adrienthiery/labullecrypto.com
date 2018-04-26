@@ -46,6 +46,7 @@ defaults:
       type: episodes
     values:
       layout: episode
+      type: episode
       cover: assets/images/episode.jpg
       credits_username: innov8
       credits_name: Matthieu A
@@ -55,11 +56,21 @@ defaults:
       type: meetups
     values:
       layout: meetup
+      type: meetup
+      cover: assets/images/meetups.jpg
+      credits_username: danteov_seen
+      credits_name: Nikola Jovanovic
+      overlay: true
   - scope:
       path: ""
       type: fiches
     values:
       layout: fiche
+      type: fiche
+      cover: assets/images/fiches.jpg
+      credits_username: samuelzeller
+      credits_name: Samuel Zeller
+      overlay: true
 
 plugins:
   - jekyll-paginate

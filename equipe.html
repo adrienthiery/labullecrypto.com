@@ -11,7 +11,7 @@ credits_name: rawpixel.com
 
 <div id="members" class="members">
 {% for member in site.data.members %}
-    <div class="member">
+    <div class="member list-item-card" id="{{ member.username }}">
         <amp-img src="{{ member.image }}" width="75" height="75" layout="fixed" alt="Photo de {{ member.name }}" class="member-photo"></amp-img>
         <h3 id="{{ member.username }}">{{ member.name }}</h3>
         <p>{{ member.location }}</p>

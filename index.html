@@ -9,103 +9,16 @@ layout: default
 <main id="content" role="main" class="content">
   <div class="cf frame">
     {% if site.episodes.size > 0 %}
-    {% assign episode = site.episodes[0] %}
-      <article class="episode" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <div class="article-item">
-          <header class="episode-header">
-            <h2 class="episode-title" itemprop="name"><a href="{{ site.url }}{{ episode.url }}" itemprop="url">{{ episode.title }}</a></h2>
-          </header>
-          <section class="episode-excerpt" itemprop="description">
-            <p class="episode-description">{{ episode.excerpt | strip_html | truncatewords: 50 }}</p>
-          </section>
-          <div class="episode-meta">
-            {% for author in site.data.authors %}
-              {% if author[1].username == episode.author %}
-                {% if author[1].assets %}<amp-img width="24" height="24" class="author-thumb" layout="responsive" src="{{ site.baseurl }}{{author[1].assets}}" alt="{{author[1].name}}"/></amp-img>{% endif %}
-                <a href="{{site.baseurl}}authors/#{{author[1].username}}">{{author[1].name}}</a>
-              {% endif %}
-            {% endfor %}
-
-            {% if episode.tags.size > 0 %}
-                in
-                {% for tag in episode.tags %}
-                    {% if forloop.index == episode.tags.size %}
-                       <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>
-                    {% else %}
-                       <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>,
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-              <time class="episode-date" datetime="{{ episode.date | date:'%Y-%m-%d' }}">{{ episode.date | date_to_string }}</time>
-          </div>
-        </div>
-      </article>
+        {% assign episode = site.episodes[0] %}
+        {% include list_item.html data=episode type='episode' %}
     {% endif %}
     {% if site.fiches.size > 0 %}
-    {% assign fiche = site.fiches[0] %}
-      <article class="fiche" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <div class="article-item">
-          <header class="fiche-header">
-            <h2 class="fiche-title" itemprop="name"><a href="{{ site.url }}{{ fiche.url }}" itemprop="url">{{ fiche.title }}</a></h2>
-          </header>
-          <section class="fiche-excerpt" itemprop="description">
-            <p class="fiche-description">{{ fiche.excerpt | strip_html | truncatewords: 50 }}</p>
-          </section>
-          <div class="fiche-meta">
-            {% for author in site.data.authors %}
-              {% if author[1].username == fiche.author %}
-                {% if author[1].assets %}<amp-img width="24" height="24" class="author-thumb" layout="responsive" src="{{ site.baseurl }}{{author[1].assets}}" alt="{{author[1].name}}"/></amp-img>{% endif %}
-                <a href="{{site.baseurl}}authors/#{{author[1].username}}">{{author[1].name}}</a>
-              {% endif %}
-            {% endfor %}
-
-            {% if fiche.tags.size > 0 %}
-                in
-                {% for tag in fiche.tags %}
-                    {% if forloop.index == fiche.tags.size %}
-                       <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>
-                    {% else %}
-                       <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>,
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-              <time class="fiche-date" datetime="{{ fiche.date | date:'%Y-%m-%d' }}">{{ fiche.date | date_to_string }}</time>
-          </div>
-        </div>
-      </article>
+        {% assign fiche = site.fiches[0] %}
+        {% include list_item.html data=fiche type='fiche' %}
     {% endif %}
     {% if site.meetups.size > 0 %}
-    {% assign meetup = site.meetups[0] %}
-      <article class="meetup" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <div class="article-item">
-          <header class="meetup-header">
-            <h2 class="meetup-title" itemprop="name"><a href="{{ site.url }}{{ meetup.url }}" itemprop="url">{{ meetup.title }}</a></h2>
-          </header>
-          <section class="meetup-excerpt" itemprop="description">
-            <p class="meetup-description">{{ meetup.excerpt | strip_html | truncatewords: 50 }}</p>
-          </section>
-          <div class="meetup-meta">
-            {% for author in site.data.authors %}
-              {% if author[1].username == meetup.author %}
-                {% if author[1].assets %}<amp-img width="24" height="24" class="author-thumb" layout="responsive" src="{{ site.baseurl }}{{author[1].assets}}" alt="{{author[1].name}}"/></amp-img>{% endif %}
-                <a href="{{site.baseurl}}authors/#{{author[1].username}}">{{author[1].name}}</a>
-              {% endif %}
-            {% endfor %}
-
-            {% if meetup.tags.size > 0 %}
-                in
-                {% for tag in meetup.tags %}
-                    {% if forloop.index == meetup.tags.size %}
-                       <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>
-                    {% else %}
-                       <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>,
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-              <time class="meetup-date" datetime="{{ meetup.date | date:'%Y-%m-%d' }}">{{ meetup.date | date_to_string }}</time>
-          </div>
-        </div>
-      </article>
+        {% assign meetup = site.meetups[0] %}
+        {% include list_item.html data=meetup type='meetup' %}
     {% endif %}
   </div>
 

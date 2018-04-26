@@ -46,6 +46,53 @@ main {
     padding: 2 * $base-padding;
 }
 
-p, span {
+p, span, q, p > *, label, code, var, b {
+    display: inline;
+}
+
+a {
+    display: inline-block;
+}
+
+pre, code {
+    font-size: 15px;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    font-family: monospace,monospace;
+    font-size: 1em;
+    padding-left: $base-padding / 3;
+    padding-right: $base-padding / 3;
+
+    .highlight & {
+        border-width: 0;
+    }
+}
+
+.ampstart-input {
     flex-direction: row;
+    padding: $base-padding 0;
+
+    > input, > textarea {
+        display: inline-flex;
+        flex-direction: row;
+        margin-right: $base-padding;
+    }
+}
+
+ul {
+    display: block;
+
+    li {
+        display: list-item;
+    }
+}
+
+.ampstart-sidebar, footer, .desktop {
+    ul {
+        display: flex;
+
+        li {
+            display: inline-block;
+        }
+    }
 }

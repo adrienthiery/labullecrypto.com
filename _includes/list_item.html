@@ -1,0 +1,25 @@
+<article class="list-item list-item-card" itemscope itemtype="http://schema.org/{% if include.type == 'episode' %}MediaObject{% elsif include.type == 'meetup' %}Event{% else %}BlogPosting{% endif %}" role="article">
+    <div class="article-item">
+      <header class="list-item-header">
+        <h2 class="list-item-title" itemprop="name"><a href="{{ site.url }}{{ include.data.url }}" itemprop="url">{% if include.type == 'episode' %}🎧{% elsif include.type == 'meetup' %}📅{% else %}📝{% endif %} -&nbsp;{{ include.data.title }}</a></h2>
+      </header>
+      <section class="list-item-excerpt" itemprop="description">
+        <p class="list-item-description">{{ include.data.excerpt | strip_html | truncatewords: 50 }}</p>
+      </section>
+      <div class="list-item-meta">
+        <span>
+            Par&nbsp;
+            {% for member in site.data.members %}
+            {% if include.data.authors contains member.username %}
+                {% if author.assets %}<amp-img width="24" height="24" class="author-thumb" layout="responsive" src="{{ site.baseurl }}{{ member.image }}" alt="{{ member.name }}"/></amp-img>{% endif %}
+                <a href="/equipe#{{ member.username }}">{{ member.name }}</a>
+                {% for authorUsername in include.data.authors %}
+                    {% if forloop.index < forloop.length and authorUsername == member.username %}, {% endif %}
+                {% endfor %}
+            {% endif %}
+            {% endfor %}
+        </span>
+        <time class="list-item-date" datetime="{{ include.data.date | date:'%Y-%m-%d' }}">{{ include.data.date | date_to_string }}</time>
+      </div>
+    </div>
+</article>

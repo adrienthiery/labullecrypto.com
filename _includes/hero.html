@@ -9,18 +9,31 @@
             {% else %}
             <img src="/assets/images/logo.svg" class="logo" />
             {% endif %}
-            {% if include.members %}
-            {% for member in include.members %}
-            <p class="author">
-                <b><a href="#" role="author" class="author">{{ member }}</a></b>
-            </p>
-            {% endfor %}
-            {% endif %}
             {% if include.subtitle %}
             <h2 class="subtitle">{{ include.subtitle }}</h2>
             {% endif %}
-            {% if include.date %}
-            <time class="article-date" datetime="">{{ include.date }}</time>
+            {% if include.date and include.date != "" and include.date != nil %}
+            <time class="article-date" datetime="{{ include.date }}">{% if include.type != 'meetup' %}Publié le {{ include.date | date:'%d-%m-%Y' }}{% else %}{{ include.date | date:'%A %D - %H:%M' }}{% endif %}</time>
+            {% endif %}
+            {% if include.type == 'meetup' and include.address and include.address != "" and include.address != nil %}
+            <address>{{ include.address }}</address>
+            {% endif %}
+            {% if include.authors %}
+            <p>
+                Par
+                {% for author in include.authors %}
+                <span class="author">
+                    <b>
+                        {% for member in site.data.members %}
+                        {% if member.username == author %}
+                        <a href="/equipe#{{ author }}" role="author" class="author">{{ member.name }}</a>
+                        {% endif %}
+                        {% endfor %}
+                    </b>
+                    {% if forloop.index < forloop.length %},{% endif %}
+                </span>
+                {% endfor %}
+            </p>
             {% endif %}
         </header>
         {% if include.readmore %}

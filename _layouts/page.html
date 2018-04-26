@@ -2,8 +2,7 @@
 layout: default
 ---
 {% capture hero_image %}{{ site.baseurl }}{{ page.cover }}{% endcapture %}
-{% capture hero_date %}{{ page.date | date:'%Y-%m-%d' }}{% endcapture %}
-{% include hero.html image=hero_image title=page.title members=page.members readmore=true date=hero_date withoverlay=page.overlay %}
+{% include hero.html image=hero_image title=page.title authors=page.authors readmore=true date=page.date withoverlay=page.overlay type=page.type %}
 <main id="content" role="main">
   <article class="page">
     <div class="page-meta">

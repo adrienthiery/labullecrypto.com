@@ -1,0 +1,25 @@
+.list-item-title, .list-item-meta {
+    flex-direction: row;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.list-item-card {
+    padding: $base-padding;
+    border: solid 1px $greyDD;
+    margin-top: $base-padding;
+    margin-bottom: $base-padding;
+}
+
+.list-item-date {
+    flex: 1;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.article-share {
+    flex-direction: row;
+    justify-content: center;
+    margin-top: $base-padding;
+    margin-bottom: $base-padding;
+}

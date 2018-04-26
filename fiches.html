@@ -9,16 +9,7 @@ credits_name: Samuel Zeller
 ---
 
 {% for fiche in site.fiches %}
-    <article class="fiche" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-    <div class="article-item">
-        <header class="fiche-header">
-        <h2 class="fiche-title" itemprop="name"><a href="{{ site.baseurl }}{{ fiche.url | remove: '/'}}" itemprop="url">{{ fiche.title }}</a></h2>
-        </header>
-        <section class="fiche-excerpt" itemprop="description">
-        <p class="fiche-description">{{ fiche.excerpt | strip_html | truncatewords: 50 }}</p>
-        </section>
-    </div>
-    </article>
+    {% include list_item.html data=fiche type='fiche' %}
 {% endfor %}
 
 
