@@ -5,7 +5,7 @@ cover: assets/images/main.svg
 logo: assets/images/logo.svg
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://labullecrypto.com" # the base hostname & protocol for your site
+url: "http://www.labullecrypto.com" # the base hostname & protocol for your site
 paginate: 5 # The number of posts to show per page on your homepage
 
 # Social
@@ -92,7 +92,7 @@ repo: hanuman #github repository
 branch: master #branch
 relative_source: ./ #source directory
 destination: dist/ #destination directory
-production_url:  http://labullecrypto.com/
+production_url:  http://www.labullecrypto.com/
 source_url:  https://github.com/adrienthiery/labullecrypto.com #source repository url
 
 exclude:
