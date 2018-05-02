@@ -39,6 +39,9 @@ collections:
   fiches:
     output: true
     permalink: /fiche/:name
+  donates:
+    output: true
+    permalink: /donate/:name
 
 defaults:
   - scope:
@@ -71,6 +74,11 @@ defaults:
       credits_username: samuelzeller
       credits_name: Samuel Zeller
       overlay: true
+  - scope:
+      path: ""
+      type: donates
+    values:
+      layout: donate
 
 plugins:
   - jekyll-paginate

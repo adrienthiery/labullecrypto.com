@@ -1,8 +1,10 @@
 <footer class="ampstart-footer">
-    {% include social.html %}
-    <p>
-        <a href="{{ site.baseurl }}">{{ site.title }}</a>
-        &nbsp;&copy; {{ site.time | date: '%Y' }}
-    </p>
-    <p>Publié avec&nbsp;<a href="https://jekyllrb.com/">Jekyll</a></p>
+    <div class="container">
+        {% include social.html %}
+        <p>
+            <a href="{{ site.baseurl }}">{{ site.title }}</a>
+            &nbsp;&copy; {{ site.time | date: '%Y' }}
+        </p>
+        <p>Publié avec&nbsp;<a href="https://jekyllrb.com/">Jekyll</a></p>
+    </div>
 </footer>
