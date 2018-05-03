@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Les épisodes de La Bulle Crypto
+title: Les épisodes de la Bulle
 permalink: /episodes
 cover: assets/images/episode.jpg
 overlay: true
-credits_username:
-credits_name:
+credits_username: samuelzeller
+credits_name: Samuel Zeller
 ---
-
-Tous les Lundi, La Bulle Crypto publie un épisode de news qui fait un point général sur le monde des cryptos, puis détaille les événements de la semaine à venir. 
 
 {% for episode in site.episodes %}
     {% include list_item.html data=episode type='episode' %}
 {% endfor %}
+
+
