@@ -1,8 +1,10 @@
+{% if include.labels %}
 <ul class="social-labels">
     <li>Connectons nous</li>
     <li>Ecoutez nous</li>
     <li>Supportez nous</li>
 </ul>
+{% endif %}
 <div class="links-container">
     <ul class="ampstart-social-follow">
         {% if site.twitter %}
@@ -67,9 +69,11 @@
         </li>
         {% endif %}
     </ul>
+    {% if include.crypto %}
     <ul>
         {% for donate in site.donates %}
             {% include crypto_link.html data=donate type='donate' %}
         {% endfor %}
     </ul>
+    {% endif %}
 </div>
