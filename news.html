@@ -1,0 +1,13 @@
+---
+layout: page
+title: Les News
+permalink: /nouvelles
+cover: assets/images/chancellor.png
+overlay: true
+credits_username:
+credits_name:
+---
+
+{% for news_item in site.news reversed %}
+    {% include list_item.html data=news_item type='news' %}
+{% endfor %}

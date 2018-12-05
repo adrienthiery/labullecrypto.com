@@ -10,6 +10,6 @@ credits_name:
 
 Tous les Lundi, La Bulle Crypto publie un épisode de news qui fait un point général sur le monde des cryptos, puis détaille les événements de la semaine à venir. 
 
-{% for episode in site.episodes %}
+{% for episode in site.episodes reversed %}
     {% include list_item.html data=episode type='episode' %}
 {% endfor %}

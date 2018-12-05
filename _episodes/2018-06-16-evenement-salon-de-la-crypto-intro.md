@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Événement - Salon de la crypto: Intro
+title:  Événement - Salon de la crypto - Intro
 date:   2018-06-16 03:11:21
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/459067284-la-bulle-crypto-evenement-salon-de-la-crypto-intro.mp3' autoplay='false' controls='true' />
+
+<audio src='http://feeds.soundcloud.com/stream/459067284-la-bulle-crypto-evenement-salon-de-la-crypto-intro.mp3' auto-play='false' controls='true'></audio>
 
 Cet épisode est le premier d'une série d'épisode à propos du Salon de la Crypto.
 Le Salon de la Crypto a eu lieu le 12 Mai dernier à Montréal,
@@ -20,7 +21,7 @@ LTC: LgKsmiwozmhH4XixzP9iUzHR3DBGtCuo7F
 ETH (et autres tokens): 0xe390d66441D0144fd54bd82Bff96B94E7620196f
 
 Newsletter: Ta dose crypto
-medium.com/r/?url=http%3A%2F%2Feepurl.com%2FdkBqXv
+[medium.com/r/?url=http%3A%2F%2Feepurl.com%2FdkBqXv]
 
 PATREON patreon.com/labullecrypto
 Youtube goo.gl/X4q3gt

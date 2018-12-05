@@ -4,8 +4,9 @@
         <h2 class="list-item-title" itemprop="name"><a href="{{ site.url }}{{ include.data.url }}" itemprop="url">{% if include.type == 'episode' %}🎧{% elsif include.type == 'meetup' %}📅{% else %}📝{% endif %} -&nbsp;{{ include.data.title }}</a></h2>
       </header>
       <section class="list-item-excerpt" itemprop="description">
-        <p class="list-item-description">{{ include.data.excerpt | strip_html | truncatewords: 50 }}</p>
+        <p class="list-item-description">{{ include.data.content | strip_html | truncatewords: 50 }}</p>
       </section>
+      {% if include.type == 'fiche' %}
       <div class="list-item-meta">
         <span>
             Par&nbsp;
@@ -21,5 +22,9 @@
         </span>
         <time class="list-item-date" datetime="{{ include.data.date | date:'%Y-%m-%d' }}">{{ include.data.date | date_to_string }}</time>
       </div>
+      {% endif %}
+      {% if include.type == 'news' %}
+      <p>{{ include.data.date | date_to_long_string }}</p>      
+      {% endif %}
     </div>
 </article>

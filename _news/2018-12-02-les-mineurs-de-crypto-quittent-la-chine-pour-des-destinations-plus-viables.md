@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Les mineurs de crypto quittent la Chine pour des destinations plus viables"
+date:   2018-12-02 01:53:34
+categories: [crypto]
+tags: electricity coinshare mining miner bitcoin
+---
+Parmi nos constatations, on note une estimation selon laquelle, depuis mai, le coût de création marginal moyen du marché, de 5 kWh et de 18 mois, est passé d’environ 6 500 dollars à environ 6 800 dollars. Cela suggère que, aux prix actuels, le mineur moyen est soit: à perte et incapable de récupérer ses dépenses en capital, une extraction à des coûts d’électricité plus proches de 3 / KWh, une dépréciation de l’engrenage minier sur 24-30 mois, ou une dépense inférieure pour nos estimations. La Chine sera-t-elle en mesure de retenir ses mineurs et de sauver son industrie minière cryptographique? Selon CoinShares, les activités minières continueront de se concentrer sur les sources d’énergie les moins chères possibles, principalement de l’énergie renouvelable. D&#39;après des données historiques sur la composition énergétique et l&#39;emplacement des activités minières de crypto-monnaie en Chine, nous avons montré que contrairement au récit habituel, la grande majorité de la capacité mondiale d&#39;extraction de Bitcoin (minimum 77,6%) fonctionne à l&#39;énergie renouvelable, concluent les chercheurs. En réponse, Saifedean Ammous, l&#39;auteur de The Bitcoin Standard, a souscrit aux conclusions, ajoutant qu&#39;il publierait vendredi sa première analyse approfondie de (l&#39;économie) de l&#39;exploitation minière par bitcoin. Coinshares a constaté que de nombreux mineurs chinois utilisaient réellement l&#39;électricité excédentaire réduite pour alimenter leurs activités, plutôt que de la laisser gaspiller.

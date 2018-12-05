@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Satoshi Nakamoto s'anime avec le premier post en 4 ans, une grande nouvelle?"
+date:   2018-12-02 01:53:28
+categories: [crypto]
+tags: account satoshi bitcoin tamanaha post nakamoto
+---
+Le pionnier des Bitcoins, Jeff Garzik, qui serait le troisième contributeur au code Bitcoins et l&#39;un des collaborateurs clés de Nakamoto, a récemment avancé sa théorie personnelle selon laquelle le codeur Floridian Dave Kleiman est la figure tant mythifiée qui se cache derrière la pièce. En plus de poster ce commentaire étrange, le compte a ajouté Wagner Tamanaha à sa liste d&#39;amis. Selon le dictionnaire urbain, nour est défini comme: La personne la plus aimante, affectueuse et attentionnée que vous rencontrerez jamais. Un peu perdue, toujours en train de comprendre ce qu&#39;elle veut dans la vie et comment l&#39;atteindre. quand elle sourit, elle vous fait oublier tous les problèmes que vous avez, son étreinte vous donnera une assurance que vous n&#39;avez jamais ressentie et que vous ne ferez jamais. Peu après que le compte P2PFoundation de Satoshi Nakamotos ait été publié, Satoshi Nakamoto auto-proclamé Craig Wright, partisan de Bitcoin Cash, Satoshis Vision (BSV), a commencé à être publié en arabe sur les réseaux sociaux. Il est bien connu dans la communauté des crypto-monnaies que le compte P2PFoundatin de Satoshi Nakamotos a été piraté à la fin de 2014, car il a été révélé que le compte de messagerie associé, satoshin@gmx.com, avait commencé à envoyer des courriels inhabituels. Dans un incident curieux aujourd&#39;hui, Satoshi Nakamoto, le créateur anonyme de Bitcoin, a posté sur les forums de la Fondation P2P pour la première fois depuis 2011.

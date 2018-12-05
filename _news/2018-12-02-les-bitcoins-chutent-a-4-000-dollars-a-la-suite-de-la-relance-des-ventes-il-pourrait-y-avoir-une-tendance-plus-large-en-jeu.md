@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Les bitcoins chutent à 4 000 dollars à la suite de la relance des ventes, il pourrait y avoir une tendance plus large en jeu"
+date:   2018-12-02 01:53:32
+categories: [crypto]
+tags: btc trading bitcoin market
+---
+Rob Sluymer, analyste technique chez Fundstrat Global Advisors, aurait déclaré: Contrairement aux rebonds qui se sont développés jusqu&#39;en 2018, le RSI [indice de force relative] hebdomadaire est maintenant à des niveaux jamais vus depuis le dernier creux du marché baissier début 2015 par BTC. montre très tôt qu&#39;il a réagi à sa tendance haussière à long terme après trois mouvements baissiers majeurs en 2018. Parlant de Bitcoinist, Max Keizer, a déclaré à la sortie populaire que le retrait crypto de 2018 est typique, avant d&#39;ajouter qu&#39;il espérait que Bitcoin engloutirait toute la fiat dans un trou noir monétaire, poussant par la suite le prix de BTC au-dessus de 100 000 $ et au-delà. De nombreux acteurs du marché ont décidé d&#39;adopter une approche optimiste et la baisse des BTC à 3 500 USD constituait un point d&#39;appui important pour la crypto-monnaie. Dans ce contexte, il convient de noter que les spéculateurs pourraient bientôt commencer à profiter de cette tendance, ce qui pourrait déclencher une nouvelle vague de ventes La vraie question est: le marché de la cryptographie a-t-il atteint le fond? Sluymer, cependant, a indiqué qu&#39;il pensait que BTC était en train de mettre en place un processus de décompte final sur plusieurs trimestres qui devrait durer jusqu&#39;à mi-2019. Selon les experts, Bitcoin est sur le point de capituler avec des chances de remonter à la hausse.

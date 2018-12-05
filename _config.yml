@@ -30,6 +30,9 @@ kramdown:
   parse_block_html: true
 
 collections:
+  news:
+    output: true
+    permalink: /nouvelle/:name
   episodes:
     output: true
     permalink: /episode/:name
@@ -44,6 +47,16 @@ collections:
     permalink: /donate/:name
 
 defaults:
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: news_item
+      type: news
+      cover: assets/images/chancellor.png
+      credits_username: test
+      credits_name: testname
+      overlay: true
   - scope:
       path: ""
       type: episodes
