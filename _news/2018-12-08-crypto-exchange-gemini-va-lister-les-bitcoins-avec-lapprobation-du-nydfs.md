@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Crypto Exchange Gemini va lister les Bitcoins avec l'approbation du NYDFS"
+date:   2018-12-08 21:08:33
+categories: [crypto]
+tags: abc support bitcoin cash gemini trading sv
+---
+Le centre de cryptage Gemini, appartenant à Winklevoss, ajoute le support pour Bitcoin Cash (BCH), a annoncé la firme vendredi. Lors du lancement, la bourse propose des paires de transactions BCH avec des dollars américains, des bitcoins, de l’éther, des litecoins et des zcash. Les dépôts auprès de BCH seront acceptés à partir de 9h30 (14h30 UTC) le samedi 8 décembre et les échanges commenceront le lundi 10 décembre à 13h00 HE (18h00 UTC). Gemini souhaite également que vous sachiez qu&#39;il a &quot;travaillé en étroite collaboration avec le Département des services financiers de l&#39;État de New York (NYSDFS) pour obtenir l&#39;autorisation de proposer des services de trading et de conservation Bitcoin Cash&quot;. Bitcoin Cash, une branche du réseau Bitcoin, a récemment été divisée en deux réseaux et chaînes de blocs distincts: Bitcoin ABC et Bitcoin SV. La société a également confirmé avoir ajouté une protection anti-rejeu à tous les retraits de BCH sur la plate-forme Gemini afin de garantir que les transactions ne sont valables que sur la blockchain de Bitcoin ABC. Toute crypto-monnaie envoyée à Gemini via une chaîne de blocs non prise en charge, telle que Bitcoin SV (BSV), sera invalide et irrécupérable. La déclaration de Geminis a déclaré: «Nous continuons d’évaluer Bitcoin SV au cours des semaines ou des mois à venir, et nous pourrions choisir de ne pas soutenir les retraits et / ou les échanges de Bitcoin SV à l’avenir.

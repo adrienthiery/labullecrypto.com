@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Coinbase Pro Répertorie les jetons ERC20 de Civic (CVC), DNT, LOOM et Decentral (MANA)"
+date:   2018-12-08 21:08:28
+categories: [crypto]
+tags: coinbase
+---
+En outre, notre processus d’inscription peut avoir pour conséquence que certains de ces actifs ne sont listés que pour que les clients puissent acheter et vendre, sans possibilité d’envoyer ou de recevoir des fonds à l’aide d’un portefeuille local. Notre décision d’ajouter d’abord les jetons ERC20 repose sur la relative facilité d’intégration de la norme à notre infrastructure existante, en particulier du point de vue de la sécurité. Cependant, comme indiqué dans notre précédent article, nous explorons l&#39;ajout de nombreux nouveaux actifs au-delà des jetons ERC20, juridiction par juridiction. Avec le temps, nous entendons offrir à nos clients un accès à plus de 90% de tous les actifs numériques conformes par capitalisation boursière. Le vendredi (7 décembre 2018), l’échange de crypto-monnaie Coinbase a annoncé qu’il envisageait d’ajouter un support pour jusqu’à 31 actifs numériques supplémentaires. La liste complète des monnaies cryptées que Coinbase a sélectionnées comprend: cardano (ADA), éternité (AE), aragon (ANT), pain (BRD), civic (CVC), dai (DAI), district0x (DNT), enjincoin (ENJ) , EOS (EOS), réseau Golem (GNT), iost (IOST), kin (KIN), réseau kyber (KNC), linklink (LINK), réseau de métier à tisser (LOOM), boucle (LRC), décentralisé (MANA), mainframe (MFT), fabricant (MKR), NEO (NEO), omisego (OMG), poète (POE), quarkchain (QKC), augure (REP), réseau de demandes (REQ), statut (SNT), storj (STORJ), stellaire (XLM), ondulation (XRP), tezos (XTZ) et zilliqa (ZIL).

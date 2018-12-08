@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Rapport: Un plus grand nombre de mineurs chinois vendent à découvert après l'effondrement du marché de la crypto"
+date:   2018-12-08 21:08:35
+categories: [crypto]
+tags: sell mining short chinese price miner bitcoin month current
+---
+La forte baisse du marché des cryptomonnaies au cours du dernier mois aurait incité les mineurs de la nouvelle génération à commencer à couvrir leurs pièces afin d’éviter les risques du marché. Le mineur chinois a également expliqué qu&#39;un grand nombre de mineurs locaux vendaient à découvert pour se défendre. Jin a déclaré qu&#39;à moins de vendre à découvert la BTC, certains mineurs seront finalement éliminés. Jin a dit: Si j&#39;exploite 30 jetons le mois prochain, alors que son prix pourrait continuer à baisser de 10% supplémentaires, en fonction de la tendance actuelle, je passerai une petite commande pour le vendre au prix actuel, mais le livrer un mois plus tard . Le document indique que les grappes de moteurs SHA peuvent consommer beaucoup d&#39;énergie (par exemple, à une vitesse supérieure à 200 W). Cela laisse les hodlers à long terme, les investisseurs institutionnels et les crypto mineurs chinois. Cette année, l&#39;augmentation du nombre de hashrates a atteint un point d&#39;insoutenabilité, un point de basculement au-delà duquel il ne serait plus rentable de poursuivre l&#39;exploitation minière. Le prix du bitcoin core (BTC) a considérablement baissé au cours des derniers mois, affectant de manière significative les particuliers et les organisations qui exploitent la crypto-monnaie. En raison des récents prix bas de nombreuses crypto-monnaies, l&#39;exploitation minière est devenue moins rentable.
