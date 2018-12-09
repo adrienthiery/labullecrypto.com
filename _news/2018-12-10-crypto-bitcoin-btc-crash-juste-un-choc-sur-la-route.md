@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Crypto, Bitcoin (BTC) Crash juste un choc sur la route"
+date:   2018-12-10 00:12:55
+categories: [crypto]
+tags: bump chief crypto cryptocurrency regulation bevan
+---
+Après que Bevan eut fait ses commentaires, d’autres initiés de l’industrie ont également discuté de Stablecoins, un sous-ensemble croissant de crypto-monnaies destiné à des investisseurs plus conservateurs, notamment les institutions. Bloomberg cite également Marieke Flament, directrice marketing mondiale de la société de paiement à moteur de chaîne Block Circle, Circle Internet Financial Ltd. James Bevan, directeur des investissements chez CLCA Investment Management, l&#39;un des plus importants gestionnaires de fonds caritatifs du Royaume-Uni, a récemment déclaré qu&#39;il ne pensait pas que le crash du marché de la crypto-monnaie était une crise existentielle. Bevan, qui a précédemment occupé le poste de DSI chez Barclays Asset Management Group, a expliqué que la chute des prix de la monnaie numérique ressemblait davantage à un choc et que les investisseurs institutionnels en avaient beaucoup dans les systèmes de transaction et de devises conventionnelles. Les commentaires de Bevans concernant les cryptoassets sont venus lors d&#39;une table ronde au Bloomberg Crypto Summit - qui s&#39;est tenu à Londres cette semaine. En outre, les membres du panel ont déclaré que le marché de la cryptographie connaîtra probablement davantage de réglementations, une plus grande implication des investisseurs institutionnels, une plus grande intégration avec les classes d&#39;actifs traditionnelles et des niveaux de volatilité plus faibles.
