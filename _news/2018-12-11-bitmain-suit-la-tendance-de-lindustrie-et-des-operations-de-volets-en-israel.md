@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bitmain suit la tendance de l'industrie et des opérations de volets en Israël"
+date:   2018-12-11 04:42:59
+categories: [crypto]
+tags: bitmain market
+---
+Et le mois dernier, Steemitla, la start-up blockchain, a licencié près de 70% de son personnel, le retour de la transaction ne lui permettant plus de couvrir les coûts croissants liés à l&#39;utilisation de nœuds Steem complets. Dans une déclaration aux employés israéliens de Bitmains, Gilkberg a déclaré: Le marché de la cryptographie a été bouleversé au cours des derniers mois, ce qui a obligé Bitmain à examiner ses diverses activités dans le monde et à recentrer ses activités en fonction de la situation actuelle. Gadi Glikberg, responsable de la branche israélienne et vice-président des ventes et du marketing international de Bitmain, quitte également. Selon des rapports israéliens, le centre de recherche et développement Bitmains du pays sera fermé cette semaine. Au cours des trois dernières années, nous avons constitué une équipe extraordinaire dotée des capacités les plus performantes sur le terrain. Nos plans de développement prévoyaient de nombreux travaux sur l&#39;intégration et l&#39;accès numérique au grand public. Le géant minier des cryptomonnaies, Bitmain, ferme son activité de recherche et développement basée en Israël. BitmainTech Israel a été lancé en 2016 et a été ajouté au pool minier tolaunchBitmains ConnectBTC en avril 2017. L&#39;unité a travaillé au développement de la technologie de la chaîne de blocs ainsi que de l&#39;intelligence artificielle pour le projet Sophon de la société.

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "BitMEX Research: Le bitcoin Hashrate a chuté de 31% depuis début novembre 2018"
+date:   2018-12-11 04:43:10
+categories: [crypto]
+tags: report bitmex miner research
+---
+Selon un rapport (publié aujourd&#39;hui) de BitMEX Research, le groupe de recherche sur les dérivés cryptographiques échangera BitMEX, depuis le début novembre 2018, le prix du Bitcoin (BTC) a baissé d&#39;environ 45% et son taux de trachée est tombé autour de 31% l’équivalent de 1,3 million de mineurs Bitmain S9 éteints). Alors que l’ETH n’a baissé que de 20%, ce qui est bien moins que l’énorme crash de Bitcoins, la rentabilité de l’exploitation minière de la première période a été affectée plus négativement que celle de BTC. Bien que Bitcoin ABC ait réussi à augmenter sa rentabilité à un niveau similaire à celui de BTC, dix jours après la scission, les mineurs du réseau ont enregistré de lourdes pertes, pour un montant total d’environ 6,7 millions de dollars. Le rapport estime le coût moyen de l’électricité à 0,05 dollar par kWh. Cependant, pour les mineurs dont les coûts sont moins élevés, notre analyse de base indique que la situation peut être meilleure que celle attendue par les gens. Selon BitMEX, la scission de Bitcoin Cash pourrait avoir affecté le krach boursier récent. Les chercheurs ont ajouté que, si les mineurs achetaient leurs équipements à des prix inférieurs, ils pourraient toujours être dans le vert. Les 16 novembre et 3 décembre 2018, peu après l&#39;effondrement du marché de la cryptographie, la tendance baissière des marchés a entraîné deux importants ajustements de la difficulté à la baisse pour Bitcoin 7,4 et 15,1%, respectivement.

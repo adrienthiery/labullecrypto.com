@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bitcoin et Ethereum: surperformer les prix, analyse selon un analyste: la volatilité dépend de facteurs techniques"
+date:   2018-12-11 04:43:05
+categories: [crypto]
+tags: network price bitcoin value burniske peak fundamental market recent
+---
+La récente vente du marché n&#39;est pas justifiée par les fondamentaux, écrit Greenspan. Dans son dernier billet de blog, il explique que les fondamentaux des réseaux de cryptage de qualité ont moins baissé que les prix, ce qui est bien le cas lorsque les fondamentaux se rapportent à la santé des acheteurs de la demande et des acheteurs. Selon @cburniske, l&#39;utilisation du réseau reste solide et les pièces sont survendues en comparaison. Cela confirme notre évaluation selon laquelle la volatilité récente est motivée par des facteurs techniques. Burniske affirme que Bitcoin traite actuellement environ 250 000 transactions par jour, tandis que le nombre de transactions quotidiennes est stable. Dans le cas de Bitcoin, il reste 59% de l’activité réseau depuis le pic. Ici, une diminution de 65% de la valeur du réseau est justifiée, par rapport à la baisse actuelle de 81%. Dans le même temps, Chris Burniske, collaborateur d&#39;une société de capital-risque new-yorkaise, estime que la récente vente de Bitcoin et Ethereum (ETH) à 91,2264% - 0,5% n&#39;est pas justifiée par les fondamentaux. Bitcoin, par exemple, a perdu environ 81% de sa valeur depuis son sommet de janvier 2018. En termes de valeur déplacée, Bitcoin est parvenu à traiter plus d&#39;un milliard de dollars de valeur transactionnelle chaque jour, soit une baisse d&#39;environ 74% par rapport à période de pointe malgré la forte baisse en USD.
