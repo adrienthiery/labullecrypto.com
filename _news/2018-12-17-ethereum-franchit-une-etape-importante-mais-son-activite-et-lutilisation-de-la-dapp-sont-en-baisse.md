@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Ethereum franchit une étape importante, mais son activité et l'utilisation de la dApp sont en baisse"
+date:   2018-12-17 18:30:55
+categories: [crypto]
+tags: 15 million according 50 ethereum user address active eth unique
+---
+Les dernières données indiquent que Ethereum a franchi une étape importante en termes d&#39;adresses uniques dépassant les 50 millions. La plus grande quantité d&#39;adresses Bitcoin actives a été enregistrée le 14 décembre 2017, avec plus de 1,13 million de portefeuilles actifs, selon BitInfoCharts. Ainsi, même pendant un marché baissier massif, les adresses uniques de l’Ethereum étaient toujours en train de prendre forme et de se développer. Cointelegraph a récemment indiqué que le nombre d&#39;utilisateurs de crypto avait augmenté de près de 50% en 2018, après avoir gagné environ 17 millions de nouveaux utilisateurs vérifiés par ID. Il définit l&#39;activité comme le nombre d&#39;adresses d&#39;envoi et de réception uniques participant aux transactions le jour donné. Le nombre actuel d&#39;utilisateurs est de 7 434, contre environ 17 000 il y a deux mois seulement. Début juillet, le chiffre le plus bas a été enregistré cette année à 4 215. La liquidation continue d&#39;Ethereum des projets ICO maintient les prix sur le plancher. Samedi, le réseau Ethereum a enregistré une augmentation quotidienne de 168 506 portefeuilles cryptographiques uniques, suivant une tendance à la hausse constante cette année. Après avoir culminé à environ 1,1 million le 4 janvier 2018, le nombre d&#39;adresses actives Ethereum est tombé à moins d&#39;un million à la mi-janvier et a chuté d&#39;environ 70% au cours de l&#39;année pour atteindre 328 400 adresses enregistrées le 16 décembre.

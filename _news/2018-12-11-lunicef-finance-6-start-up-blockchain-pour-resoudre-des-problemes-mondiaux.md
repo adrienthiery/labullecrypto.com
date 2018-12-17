@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "L'UNICEF finance 6 start-up Blockchain pour résoudre des problèmes mondiaux"
+date:   2018-12-11 22:50:54
+categories: [crypto]
+tags: blockchain
+---
+Également dans la description de poste du profil Marketing, Facebook indique que nous recherchons un dirigeant expérimenté pour constituer et gérer une nouvelle équipe de marketing produit axée sur l&#39;exploration des opportunités offertes par la blockchain. L’équipe blockchain est une startup de Facebook qui a pour vision de faire fonctionner la technologie blockchain à l’échelle de Facebook. Étaient en train d&#39;explorer des domaines d&#39;intérêt à travers toutes les facettes de la technologie de blockchain. Notre objectif ultime est d&#39;aider des milliards de personnes ayant accès à des services dont ils ne disposent pas actuellement, telles que des services financiers équitables, de nouvelles méthodes de sauvegarde ou de nouvelles méthodes de partage de l&#39;information. C’est exactement le stade où le Fonds d’innovation de l’UNICEF investit: lorsque notre financement, notre soutien technique et notre ciblage sur les populations vulnérables peuvent aider une technologie à croître et à mûrir de la manière la plus juste et équitable possible. Le Fonds d&#39;innovation de l&#39;UNICEF investit 100 000 dollars dans six entreprises pour développer des projets de blockchain, selon un communiqué publié le 10 décembre. La technologie du blockchain en est encore à ses débuts et il y a de nombreuses expériences voyez comment et où nous pouvons utiliser cette technologie pour créer un monde meilleur, a déclaré Chris Fabian, conseiller principal chez UNICEF Innovation.

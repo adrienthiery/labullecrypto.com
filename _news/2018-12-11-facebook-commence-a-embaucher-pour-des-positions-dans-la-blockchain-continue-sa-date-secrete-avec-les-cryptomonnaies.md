@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Facebook commence à embaucher pour des positions dans la Blockchain, continue sa date secrète avec les cryptomonnaies"
-date:   2018-12-11 04:43:02
+date:   2018-12-11 22:50:58
 categories: [crypto]
 tags: blockchain facebook
 ---

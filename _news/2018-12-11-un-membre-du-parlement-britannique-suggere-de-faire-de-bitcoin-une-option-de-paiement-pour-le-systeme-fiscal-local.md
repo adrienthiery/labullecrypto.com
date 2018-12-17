@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Un membre du Parlement britannique suggère de faire de Bitcoin une option de paiement pour le système fiscal local"
+date:   2018-12-11 22:51:04
+categories: [crypto]
+tags: parliament pay able tax bitcoin hughe
+---
+Un membre conservateur du Parlement du Royaume-Uni a déclaré que les paiements aux autorités locales et aux fournisseurs de services publics avec Bitcoin (BTC) devraient être possibles. L&#39;article note qu&#39;Eddie Hughes, membre du Parlement britannique de la circonscription de Walsall North, s&#39;est décrit comme un passionné de crypto possédant des connaissances amateurs. Dans son rapport, Hughs a également déclaré que l&#39;adoption généralisée des crypto-monnaies était freinée par le manque de connaissances sur la technologie. Cela doit ressembler à une application que les gens vont utiliser pour qu&#39;ils puissent s&#39;y familiariser de manière sûre et sécurisée, a-t-il déclaré. Selon Reuters, le besoin urgent de créer une réglementation auparavant avait fait craindre une approche brutale susceptible de nuire à l&#39;industrie. Ce député âgé de 50 ans a cité l&#39;exemple de l&#39;association caritative Royal National Lifeboat Institution qui avait accepté des dons utilisant des ressources numériques et s&#39;est demandé pourquoi le gouvernement britannique n&#39;avait pas encore ajouté le mode de paiement à sa liste des personnes acceptées pour le paiement des impôts: le RNLI qui accepte maintenant les dons de bienfaisance par le biais de la crypto-monnaie si nous pouvons le faire, quoi de nous empêcher de payer les taxes de conseil et autres factures avec Bitcoin?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bitcoin et Ethereum: surperformer les prix, analyse selon un analyste: la volatilité dépend de facteurs techniques"
-date:   2018-12-11 04:43:05
+date:   2018-12-11 22:51:06
 categories: [crypto]
 tags: network price bitcoin value burniske peak fundamental market recent
 ---

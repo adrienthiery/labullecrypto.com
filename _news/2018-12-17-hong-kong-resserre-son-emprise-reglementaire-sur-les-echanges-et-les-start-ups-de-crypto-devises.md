@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hong Kong resserre son emprise réglementaire sur les échanges et les start-ups de crypto-devises"
+date:   2018-12-17 18:30:47
+categories: [crypto]
+tags: hong kong cryptocurrency regulation investor sfc
+---
+Hong Kong resserre son emprise réglementaire sur les bourses de crypto-devises et les entreprises liées en les plaçant sous l&#39;autorité de la Securities and Futures Commission (SFC), comme indiqué par Asia Nikkei Review le 17 décembre. Avec ce nouveau régime de licences, les plateformes de négociation examineront les produits et services décentralisés dans le bac à sable dit réglementaire avant l’obtention de la licence. Les exigences de l&#39;initiative SFC peuvent s&#39;avérer trop lourdes pour certains opérateurs, ajoutant le point essentiel selon lequel certains décideront de ne pas adhérer au nouveau cadre afin de conserver leurs parts actuelles sur le marché. Daisuke Yasaku, du Daiwa Institute of Research, estime que Hong Kong prend des mesures préventives essentielles. Pour Timothy Loh, un avocat local, la barrière plus haute à l&#39;entrée risque de dissuader les entreprises de cryptographie de s&#39;installer à Hong Kong, laissant ainsi les investisseurs institutionnels en attente. Plus précisément, le régulateur souhaite introduire des directives plus strictes pour les startups qui envisagent de lancer des offres de pièces de monnaie initiales (ICO). Selon les directives de la SFC, les fonds d&#39;investissement devront obtenir une licence si plus de 10% des actifs qu&#39;ils gèrent sont constitués de bitcoins ou d&#39;autres monnaies cryptées et seront autorisés à vendre des produits connexes uniquement à des investisseurs professionnels.

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bitmain saigne davantage en fermant le bureau de Companys en Israël"
+date:   2018-12-11 22:50:46
+categories: [crypto]
+tags: 
+---
+Gadi Glikberg, responsable de la branche israélienne et vice-président des ventes et du marketing international de Bitmain, quitte également. La société chinoise de cryptographie Bitmain ferme ses activités à Bitmaintech Israel, son centre de recherche et développement (R &amp; D) situé à Raanana, en Israël, selon des informations parues dans la presse locale Globes. BitmainTech Israel a été lancé en 2016 et a été ajouté au pool minier tolaunchBitmains ConnectBTC en avril 2017. L&#39;unité a travaillé au développement de la technologie de la chaîne de blocs ainsi que de l&#39;intelligence artificielle pour le projet Sophon de la société. Et le mois dernier, Steemitla, la start-up blockchain, a licencié près de 70% de son personnel, le retour de la transaction ne lui permettant plus de couvrir les coûts croissants liés à l&#39;utilisation de nœuds Steem complets. CryptoGlobe a récemment couvert des informations selon lesquelles le géant minier Bitmain fermerait les portes de son centre de développement israélien après avoir licencié le personnel de 23 personnes. Globalement, la chute des prix du bitcoin (BTC) et du bitcoin cash (BCH) a rendu l&#39;extraction minière beaucoup moins lucrative ces derniers mois. Dans une déclaration aux employés israéliens de Bitmains, Gilkberg a déclaré: Le marché de la cryptographie a été bouleversé au cours des derniers mois, ce qui a obligé Bitmain à examiner ses diverses activités dans le monde et à recentrer ses activités en fonction de la situation actuelle.

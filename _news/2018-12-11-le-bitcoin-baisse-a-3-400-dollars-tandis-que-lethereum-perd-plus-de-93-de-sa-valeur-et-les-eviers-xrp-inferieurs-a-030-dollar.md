@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Le bitcoin baisse à 3 400 dollars, tandis que l’Ethereum perd plus de 93% de sa valeur et les éviers XRP inférieurs à 0,30 dollar"
+date:   2018-12-11 22:50:56
+categories: [crypto]
+tags: 
+---
+Selon un rapport (publié aujourd&#39;hui) de BitMEX Research, le groupe de recherche sur les dérivés cryptographiques échangera BitMEX, depuis le début novembre 2018, le prix du Bitcoin (BTC) a baissé d&#39;environ 45% et son taux de trachée est tombé autour de 31% l’équivalent de 1,3 million de mineurs Bitmain S9 éteints). Boltzmann, la plate-forme de surveillance des informations de crypto-monnaie, nous a signalé que sa plate-forme avait détecté une vente inhabituellement importante de [BTC] de mineurs [12], quelques jours avant la scission de Bitcoin Cash. Si les mineurs achetaient leurs équipements à Bitmain à des prix inférieurs aux coûts, ils pourraient toujours être dans le vert, même en incluant l’amortissement et d’autres dépenses administratives. Depuis la mi-novembre, le marché de la crypto s&#39;effondre sans raison concrète derrière la chute. Le rapport indique que les revenus de l&#39;industrie minière bitcoin sont passés de 13 millions USD par jour début novembre à 6 millions USD début décembre. Les marges bénéficiaires brutes d’Ethereum ont diminué encore plus fortement, ce qui n’a aucune raison particulière. Le rapport se termine comme suit: «L’industrie minière risque d’être très difficile. Cependant, pour les mineurs dont les coûts sont moins élevés, notre analyse de base indique que la situation peut être meilleure que celle attendue par les gens.
