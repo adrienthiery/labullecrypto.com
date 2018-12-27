@@ -5,7 +5,7 @@ date:   2018-04-07 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/426333066-la-bulle-crypto-discussion-talao.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/426333066-la-bulle-crypto-discussion-talao.mp3' auto-play='false' controls='true' />
 
 Discussion - Talao
 Discussion avec Denis Lafont-Trevisan autour du projet Talao et l'ICO de Talao qui devrait démarrer dans les semaines à venir. 

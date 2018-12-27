@@ -5,7 +5,7 @@ date:   2017-12-23 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/373760327-la-bulle-crypto-focus-cardano-ada-1.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/373760327-la-bulle-crypto-focus-cardano-ada-1.mp3' auto-play='false' controls='true' />
 
 Focus - Cardano (ADA)
 Épisode focus à propos de la cryptomonnaie Cardano (ADA).

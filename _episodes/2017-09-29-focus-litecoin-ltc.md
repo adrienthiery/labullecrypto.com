@@ -5,7 +5,7 @@ date:   2017-09-29 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/344533494-la-bulle-crypto-focus-litecoin-ltc.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/344533494-la-bulle-crypto-focus-litecoin-ltc.mp3' auto-play='false' controls='true' />
 
 Épisode focus à propos de la cryptomonnaie LiteCoin (LTC).
 

@@ -5,7 +5,7 @@ date:   2018-01-25 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/392488122-la-bulle-crypto-comprendre-verge-xvg-en-3-minutes.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/392488122-la-bulle-crypto-comprendre-verge-xvg-en-3-minutes.mp3' auto-play='false' controls='true' />
 
 Comprendre Verge (XVG) en 3 minutes
 

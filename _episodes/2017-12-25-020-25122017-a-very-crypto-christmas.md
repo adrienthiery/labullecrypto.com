@@ -5,7 +5,7 @@ date:   2017-12-25 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/374016806-la-bulle-crypto-020-25122017-a-very-crypto-christmas.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/374016806-la-bulle-crypto-020-25122017-a-very-crypto-christmas.mp3' auto-play='false' controls='true' />
 
 #020 25/12/2017 - A very crypto Christmas
 

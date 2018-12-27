@@ -5,7 +5,7 @@ date:   2018-04-16 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/431322954-la-bulle-crypto-ico-nucypher-dfinity.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/431322954-la-bulle-crypto-ico-nucypher-dfinity.mp3' auto-play='false' controls='true' />
 
 ICO - Nucypher / Dfnity
 Dfinity: https://dfinity.org/

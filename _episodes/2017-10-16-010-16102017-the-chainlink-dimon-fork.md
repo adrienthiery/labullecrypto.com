@@ -5,7 +5,7 @@ date:   2017-10-16 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/347068826-la-bulle-crypto-010-16102017-the-chainlink-dimon-fork.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/347068826-la-bulle-crypto-010-16102017-the-chainlink-dimon-fork.mp3' auto-play='false' controls='true' />
 
 Des questions à propos de l’épisode ? On a dit une bêtise ? Envie de partager et d’échanger ?
 Rejoins nous sur notre communauté Telegram (https://t.me/joinchat/BPCby0LDFPYTUhYNDlILVg) ou par Twitter @labullecrypto.

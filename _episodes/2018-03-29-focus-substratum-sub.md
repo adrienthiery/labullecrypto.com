@@ -5,7 +5,7 @@ date:   2018-03-29 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/422333319-la-bulle-crypto-focus-substratum-sub.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/422333319-la-bulle-crypto-focus-substratum-sub.mp3' auto-play='false' controls='true' />
 
 Focus - Substratum (SUB)
 Épisode focus à propos de la cryptomonnaie Substratum (SUB).

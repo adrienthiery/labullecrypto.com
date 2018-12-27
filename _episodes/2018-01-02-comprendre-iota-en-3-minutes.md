@@ -5,7 +5,7 @@ date:   2018-01-02 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/378047348-la-bulle-crypto-comprendre-iota-en-3-minutes.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/378047348-la-bulle-crypto-comprendre-iota-en-3-minutes.mp3' auto-play='false' controls='true' />
 
 Comprendre IOTA en 3 minutes
 

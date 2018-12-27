@@ -5,7 +5,7 @@ date:   2018-01-09 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/381791330-la-bulle-crypto-ico-telegram-open-network-ton-en-5min.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/381791330-la-bulle-crypto-ico-telegram-open-network-ton-en-5min.mp3' auto-play='false' controls='true' />
 
 ICO - Telegram Open Network (TON)
 Épisode spécial à propos de la future ICO Telegram (TON).

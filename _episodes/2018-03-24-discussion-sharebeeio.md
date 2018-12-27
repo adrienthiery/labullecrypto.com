@@ -5,7 +5,7 @@ date:   2018-03-24 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/419642436-la-bulle-crypto-discussion-sharebeeio.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/419642436-la-bulle-crypto-discussion-sharebeeio.mp3' auto-play='false' controls='true' />
 
 Discussion - Sharebee.io
 Discussion avec Maxime Villemure autour du projet Sharebee et l'ICO de Sharebee qui devrait démarrer dans les semaines à venir. Maxime est CEO et fondateur de Sharebee.

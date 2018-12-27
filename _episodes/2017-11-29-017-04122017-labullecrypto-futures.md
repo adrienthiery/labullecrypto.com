@@ -5,7 +5,7 @@ date:   2017-11-29 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/364660241-la-bulle-crypto-016-04122017-labullecrypto-futures.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/364660241-la-bulle-crypto-016-04122017-labullecrypto-futures.mp3' auto-play='false' controls='true' />
 
 #017 04/12/2017 - LaBulleCrypto (Futures)
 Des questions à propos de l’épisode ? On a dit une bêtise ? Envie de partager et d’échanger ?

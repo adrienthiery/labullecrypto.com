@@ -5,7 +5,7 @@ date:   2018-05-12 01:52:37
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/442855497-la-bulle-crypto-ico-bubbletone.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/442855497-la-bulle-crypto-ico-bubbletone.mp3' auto-play='false' controls='true' />
 
 Épisode à propos de l'ICO Bubbletone
 

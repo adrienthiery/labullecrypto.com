@@ -5,7 +5,7 @@ date:   2018-04-25 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/435317319-la-bulle-crypto-ico-ubcoin.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/435317319-la-bulle-crypto-ico-ubcoin.mp3' auto-play='false' controls='true' />
 
 Épisode sponsorisé à propos de l'ICO UbCoin
 

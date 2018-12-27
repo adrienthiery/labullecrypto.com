@@ -5,7 +5,7 @@ date:   2018-01-11 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/382343156-la-bulle-crypto-comprendre-tron-en-3-minutes.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/382343156-la-bulle-crypto-comprendre-tron-en-3-minutes.mp3' auto-play='false' controls='true' />
 
 Comprendre TRON en 3 minutes
 

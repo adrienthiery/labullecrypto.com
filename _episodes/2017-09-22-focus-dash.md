@@ -5,7 +5,7 @@ date:   2017-09-22 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/343495995-la-bulle-crypto-focus-dash.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/343495995-la-bulle-crypto-focus-dash.mp3' auto-play='false' controls='true' />
 
 Épisode focus à propos de la cryptomonnaie Digital Cash (DASH).
 

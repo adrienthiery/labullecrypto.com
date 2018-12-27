@@ -5,7 +5,7 @@ date:   2018-01-15 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/383757713-la-bulle-crypto-023-15012018-eth-fork-is-the-new-btc-fork.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/383757713-la-bulle-crypto-023-15012018-eth-fork-is-the-new-btc-fork.mp3' auto-play='false' controls='true' />
 
 #023 15/01/2018 - ETH fork is the new BTC fork
 Des questions à propos de l’épisode ? On a dit une bêtise ? Envie de partager et d’échanger ?

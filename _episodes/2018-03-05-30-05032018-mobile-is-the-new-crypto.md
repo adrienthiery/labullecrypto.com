@@ -5,7 +5,7 @@ date:   2018-03-05 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/408845466-la-bulle-crypto-30-05032018-mobile-is-the-new-crypto.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/408845466-la-bulle-crypto-30-05032018-mobile-is-the-new-crypto.mp3' auto-play='false' controls='true' />
 
 #30 05/03/2018 - Mobile is the new Crypto
 Des questions à propos de l’épisode ? On a dit une bêtise ? Envie de partager et d’échanger ?

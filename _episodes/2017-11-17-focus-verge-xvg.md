@@ -5,7 +5,7 @@ date:   2017-11-17 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/356977874-la-bulle-crypto-focus-verge-xvg.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/356977874-la-bulle-crypto-focus-verge-xvg.mp3' auto-play='false' controls='true' />
 
 Focus Verge (VXG)
 Épisode focus à propos de la cryptomonnaie Verge (XVG).

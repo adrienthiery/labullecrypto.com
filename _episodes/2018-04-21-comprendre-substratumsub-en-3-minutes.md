@@ -5,7 +5,7 @@ date:   2018-04-21 18:34:14
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/433147383-la-bulle-crypto-comprendre-substratumsub-en-3-minutes.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/433147383-la-bulle-crypto-comprendre-substratumsub-en-3-minutes.mp3' auto-play='false' controls='true' />
 
 Comprendre Substratum (SUB) en 3 minutes
 

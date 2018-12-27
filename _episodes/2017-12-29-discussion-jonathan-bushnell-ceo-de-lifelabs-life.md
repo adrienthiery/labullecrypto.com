@@ -5,7 +5,7 @@ date:   2017-12-29 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/376020737-la-bulle-crypto-discussion-jonathan-bushnell-ceo-de-lifelabs-life.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/376020737-la-bulle-crypto-discussion-jonathan-bushnell-ceo-de-lifelabs-life.mp3' auto-play='false' controls='true' />
 
 Discussion - LIFE
 Épisode focus à propos de la cryptomonnaie LIFE avec Jonathan Bushnell le CEO de LIFElabs.

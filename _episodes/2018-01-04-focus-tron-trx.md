@@ -5,7 +5,7 @@ date:   2018-01-04 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/379936511-la-bulle-crypto-focus-tron-trx.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/379936511-la-bulle-crypto-focus-tron-trx.mp3' auto-play='false' controls='true' />
 
 Focus - Tron(TRX)
 Épisode focus à propos de la cryptomonnaie Tron(TRX).

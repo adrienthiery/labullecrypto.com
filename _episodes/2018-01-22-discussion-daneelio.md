@@ -5,7 +5,7 @@ date:   2018-01-22 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/388233305-la-bulle-crypto-discussion-daneelio.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/388233305-la-bulle-crypto-discussion-daneelio.mp3' auto-play='false' controls='true' />
 
 Discussion - Daneel.io
 Discussion Avec Joseph Bedminster et Fabien Ducoudray autour de l'ICO de Daneel.io qui va démarrer le 29 Janvier. Joseph est CEO et fondateur de Daneel et Fabien et Community manager pour la France pour Daneel.

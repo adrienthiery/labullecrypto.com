@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Vous êtes inscrit (e) à la F arri re du Comité gouvernemental L e lisation des monnaies d'Égypte, la rédaction de rapports"
+date:   2018-12-27 21:32:43
+categories: [crypto]
+tags: cryptocurrency indium
+---
+Selon l&#39;article, un haut responsable non identifié qui aurait assisté aux réunions des panels sur les cryptomonnaies a déclaré: Il est généralement admis que la cryptomonnaie ne peut être considérée comme totalement illégale. Le gouvernement Indias aurait mis en place ce dernier comité interministériel, présidé par Subhash Chandra Garg, secrétaire du département des affaires économiques, à la suite de l&#39;interdiction par la Reserve Bank of Indias (RBI) des banques s&#39;occupant de crypto entreprises cette année. Ce comité comprend des membres du Ministère de l&#39;électronique et des technologies de l&#39;information, de la RBI, du Securities and Exchange Board of India et du secrétaire aux recettes. Le responsable a déclaré au New Indian Express: Nous avons également pris des informations auprès d’échanges de crypto-devises et d’experts, et nous examinerons les questions juridiques avec le ministère du Droit. La deuxième itération du groupe devrait maintenant soumettre son nouveau rapport au ministère des Finances du pays d&#39;ici à février 2019. En mars 2017, le gouvernement indien a mis en place un comité interdisciplinaire dont le but était de déterminer la légalité du Bitcoin. La prochaine réunion du comité est prévue pour janvier 2019. La RBI a publié en avril une circulaire interdisant aux institutions financières sous son contrôle de fournir des services aux sociétés de cryptographie.

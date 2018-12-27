@@ -5,7 +5,7 @@ date:   2018-03-11 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/412345617-la-bulle-crypto-31-12032018-hello-mt-gox-my-old-friend.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/412345617-la-bulle-crypto-31-12032018-hello-mt-gox-my-old-friend.mp3' auto-play='false' controls='true' />
 
 #31 12/03/2018 - Let's put the blockchain in the blockchain
 Des questions à propos de l’épisode ? On a dit une bêtise ? Envie de partager et d’échanger ?

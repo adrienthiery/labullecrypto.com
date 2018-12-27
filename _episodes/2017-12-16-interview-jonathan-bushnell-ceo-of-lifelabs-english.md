@@ -5,7 +5,7 @@ date:   2017-12-16 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/370577642-la-bulle-crypto-interview-jonathan-bushnell-ceo-of-lifelabs-english.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/370577642-la-bulle-crypto-interview-jonathan-bushnell-ceo-of-lifelabs-english.mp3' auto-play='false' controls='true' />
 
 Interview - LIFE
 

@@ -5,7 +5,7 @@ date:   2017-11-03 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/350468083-la-bulle-crypto-focus-qtum.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/350468083-la-bulle-crypto-focus-qtum.mp3' auto-play='false' controls='true' />
 
 Focus Quantum (QTUM)
 

@@ -5,7 +5,7 @@ date:   2018-05-10 18:44:25
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/442195221-la-bulle-crypto-discussion-rebellious.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/442195221-la-bulle-crypto-discussion-rebellious.mp3' auto-play='false' controls='true' />
 
 Discussion - Rebellious
 Discussion avec Atomme autour du projet Rebellious.

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "M ar t Gox CEOM arche K arpeles C laims L es rencontres"
+date:   2018-12-27 21:32:45
+categories: [crypto]
+tags: mt bitcoin million gox exchange
+---
+Gox est actuellement en cours de réhabilitation civile alors que les créanciers cherchent à récupérer leurs fonds volés. Pensez-vous que Mark Karpels est innocent des accusations portées contre lui? Jeudi, Karpeles a présenté ses excuses pour son incapacité à protéger la crypto-monnaie des utilisateurs contre le piratage, mais a souligné qu&#39;il n&#39;était pas coupable de toutes les accusations portées devant le tribunal, selon la chaîne japonaise NHK. Gox est passé de 70% des transactions mondiales en bitcoins en 2013 à une faillite en 2014 après la perte présumée d&#39;environ 480 millions de dollars des pirates, 200 000 bitcoins ayant été récupérés deux semaines plus tard. Karpeles, auraient-ils utilisé l&#39;argent pour des utilisations telles que l&#39;investissement dans une entreprise de développement de logiciels. Le tribunal devrait annoncer son verdict le 15 mars 2019. Mark Karpels, ancien PDG de la plate-forme d&#39;échange Bitcoin, Mt. Mark Karpeles a été accusé de détournement de fonds d&#39;environ 340 millions de yens (environ 3 millions de dollars) et d&#39;avoir manipulé ses données pour gonfler son solde de caisse. Karpeles aurait transféré 340 millions de yens appartenant à des clients d&#39;un mont. Gox a rendu compte de son compte personnel entre septembre et décembre 2013. Cependant, le Français aux prises avec une insurrection a insisté sur son innocence concernant les accusations de détournement de fonds lors de la clôture des débats lors de son procès à Tokyo le 27 décembre.

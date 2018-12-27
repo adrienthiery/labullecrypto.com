@@ -5,7 +5,7 @@ date:   2018-02-05 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/394674849-la-bulle-crypto-026-05022018-high-performance-litepay.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/394674849-la-bulle-crypto-026-05022018-high-performance-litepay.mp3' auto-play='false' controls='true' />
 
 #026 05/02/2018 - High Performance LitePay
 Des questions à propos de l’épisode ? On a dit une bêtise ? Envie de partager et d’échanger ?

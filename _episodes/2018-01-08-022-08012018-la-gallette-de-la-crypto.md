@@ -5,7 +5,7 @@ date:   2018-01-08 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/380382995-la-bulle-crypto-022-08012018-la-gallette-de-la-crypto.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/380382995-la-bulle-crypto-022-08012018-la-gallette-de-la-crypto.mp3' auto-play='false' controls='true' />
 
 #022 08/01/2018 - La gallette de la crypto
 Des questions à propos de l’épisode ? On a dit une bêtise ? Envie de partager et d’échanger ?

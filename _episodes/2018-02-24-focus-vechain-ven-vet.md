@@ -5,7 +5,7 @@ date:   2018-02-24 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/405025461-la-bulle-crypto-focus-vechain-ven-vet.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/405025461-la-bulle-crypto-focus-vechain-ven-vet.mp3' auto-play='false' controls='true' />
 
 Focus - VeChain (VEN / VET)
 Épisode focus à propos de la cryptomonnaie VeChain(VEN / VET).

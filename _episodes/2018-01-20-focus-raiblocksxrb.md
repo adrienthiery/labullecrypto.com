@@ -5,7 +5,7 @@ date:   2018-01-20 00:00:00
 categories: [podcast]
 tags:
 ---
-<audio src='http://feeds.soundcloud.com/stream/386789879-la-bulle-crypto-focus-raiblocksxrb.mp3' autoplay='false' controls='true' />
+<audio src='http://feeds.soundcloud.com/stream/386789879-la-bulle-crypto-focus-raiblocksxrb.mp3' auto-play='false' controls='true' />
 
 Focus - Raiblocks(XRB)
 Épisode focus à propos de la cryptomonnaie Raiblocks(XRB).
