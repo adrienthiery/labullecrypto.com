@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "E P é r ch é m é m é m é m é m é m é m é m é re m é m è m è re 1 000 millions de dollars environ: R apport"
+date:   2018-12-28 20:32:20
+categories: [crypto]
+tags: wallet attack user electrum
+---
+Un piratage apparemment contre le portefeuille de crypto-monnaie Electrum a vu une partie malveillante voler près de 250 Bitcoins (BTC) (environ 937 000 $), ont rapporté des commentateurs sur les réseaux sociaux le 27 décembre. : Si un client Electrum Wallet se connectait à l&#39;un de ces serveurs et tentait d&#39;envoyer une transaction BTC, il verrait un message officiel lui demandant de mettre à jour son portefeuille Electrum, ainsi qu&#39;une URL d&#39;escroquerie. Si l&#39;utilisateur en devient victime et télécharge le portefeuille malveillant, un message demandant une authentification à deux facteurs (2FA) apparaît. Si une transaction bitcoin initiée a atteint l&#39;un de ces serveurs, un message d&#39;erreur l&#39;invitant à suivre un lien GitHub à télécharger une mise à jour s&#39;affiche. Mise en garde contre l’attaque du jeudi, la firme a tweeté: Une attaque par hameçonnage est en cours contre les utilisateurs d’Electrum. Notre site officiel est https://electrum.org. Ne téléchargez pas Electrum de toute autre source. La firme a expliqué: Nous n’avons pas révélé publiquement cette information jusqu’à présent, car à peu près au moment de la publication du 3.3.2, l’attaquant s’est arrêté; Cependant, ils ont maintenant recommencé l&#39;attaque. Les pirates ont réussi à voler près de 900 000 $ de Bitcoin aux utilisateurs du portefeuille Electrum via une attaque de phishing.

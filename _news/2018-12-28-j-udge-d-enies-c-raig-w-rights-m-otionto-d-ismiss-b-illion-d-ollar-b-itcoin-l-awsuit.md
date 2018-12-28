@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "J udge D enies C raig W rights M otionto d ismiss B illion - D ollar B itcoin L awsuit"
+date:   2018-12-28 20:32:23
+categories: [crypto]
+tags: claim court estate kleiman bitcoin wright document
+---
+La Cour conclut que les demandeurs ont suffisamment allégué une revendication de conversion, confirme le document judiciaire: La plainte modifiée allègue que la défenderesse a converti au moins 300 000 bitcoins à la mort de Daves et les a transférés à diverses fiducies internationales, ce qui était un acte non autorisé qui a privé le Les plaignants des bitcoins qui s&#39;y trouvent. En conséquence, la demande de conversion présentée par les demandeurs survit à la requête en rejet de la défenderesse. La famille Kleimans croit que David et Wright ont joué un rôle dans les débuts de Bitcoin et ont probablement créé la technologie. Wright est poursuivi par Ira Kleiman au nom de la succession de son frère, le regretté Dave Kleiman, enquêteur en informatique judiciaire et auteur, décédé en 2013 après une bataille avec MRSA. Son frère, Ira Kleiman, affirme que Wright aurait comploté de saisir les bitcoins de Daves et ses droits sur certaines propriétés intellectuelles, selon les documents légaux déposés en février dernier. La succession Kleimans poursuit Wright pour environ 1,1 million de BTC (3,9 milliards de dollars) ou la juste valeur marchande des pièces et des dommages liés au vol de propriété intellectuelle. Nchains Craig Wright et son représentant légal, Rivero Mestre LLP, ont tenté de classer l&#39;affaire plus tôt cette année. Wright doit maintenant répondre aux chefs d&#39;accusation I, II et V-IX au plus tard le 10 janvier 2019.

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "E lectricité S escomptée T hief Adhérée près de 3 millions de dollars B itoin, environ"
+date:   2018-12-28 20:32:21
+categories: [crypto]
+tags: mining electrician power electricity million investigation stealing yang
+---
+Selon un rapport publié mercredi par EBC Dongsen News, un homme du nom de famille Yang est soupçonné d&#39;avoir volé plus de 100 millions de dollars NT d&#39;électricité (3,25 millions de dollars) via ses différents locaux commerciaux pour exploiter le bitcoin et l&#39;éther, récoltant environ le même montant dans les mines bénéfices. Yang aurait exploité l&#39;alimentation de 17 magasins à Taïwan pour ses opérations minières cryptographiques. Il louerait d&#39;abord un café Internet ou un magasin de jouets, puis engagerait des électriciens pour redéfinir le câblage afin que l&#39;électricité volée ne soit pas mesurée, indique le rapport. Taiwan Power Company, le fournisseur d’électricité appartenant à l’État, a découvert les opérations après avoir constaté une alimentation instable et lancé une enquête. En juin, la police du comté de Hanshan, en Chine, a arrêté un individu qui aurait volé 150 000 kilowattheures d&#39;électricité. Wang Zhicheng, chef adjoint de la quatrième brigade du Bureau des enquêtes criminelles de Taiwan, a déclaré: Le groupe a recruté des électriciens qui ont réussi à pénétrer dans les compteurs scellés afin d&#39;ajouter des lignes privées pour utiliser gratuitement l&#39;électricité avant que cette utilisation atteigne les compteurs. Un homme portant le nom de famille de Yang a été accusé d’avoir volé 100 millions de dollars taïwanais (près de 3,25 millions de dollars) en électricité pour extraire des cryptomonnaies.
